@@ -5,11 +5,10 @@ The files contain various Excel calculations based on statistical and mathematic
 <ul>Mean</ul>
 <ul>Median</ul>
 <ul>Mode</ul>
-<ul>Varianec</ul>
+<ul>Variance</ul>
 <ul>Standard Deviation</ul>
 <ul>Range</ul>
 <ul>Interquartile range</ul>
 <ul>Correlation</ul>
 <ul>Covariance</ul>
-<ul>Skewness</ul>
-And many more.
+<ul>Skewness</ul> <br/>And many more.
